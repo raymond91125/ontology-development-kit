@@ -34,6 +34,7 @@ First you must be in the root level of the kit
 Second, install some required binaries
 
     sh ./INSTALL.sh
+    export PATH=$PATH:/home/$USER/local/src/git/ontology-development-kit/bin
 
 The `seed-via-docker.sh` command does everything you need. For help:
 
