@@ -31,6 +31,10 @@ First you must be in the root level of the kit
 
     cd ontology-development-kit
 
+Second, install some required binaries
+
+    sh ./INSTALL.sh
+
 The `seed-via-docker.sh` command does everything you need. For help:
 
     ./seed-via-docker.sh  -h
